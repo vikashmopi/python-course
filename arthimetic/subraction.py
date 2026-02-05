@@ -1,3 +1,3 @@
 
-def subractions(a, b):
+def subraction(a, b):
     return a - b
